@@ -4,6 +4,6 @@ After searching on the internet for this, I found that the existing AI applicati
 
 
 I will describe my process building a LuXun-Style-GPT in the first part:
-1. I collect all the widely spread Lu Xun written articles, reviews and letters from github.
+1. I collect all the widely spread Lu Xun written articles, reviews and letters from github. Thanks to the contributer who correct all the Lu Xun written texts. The github repo can be found in https://github.com/PzzAg6/Xun-Lu-s-article-collection.
 2. I will build the transformer decoder architecture which is actually based on Attention is all you need and Improving Language Understanding by Generative Pre-Training.
 3. Tune the hyperparameter and train the model.
